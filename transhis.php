@@ -65,14 +65,12 @@
 								echo "
 									<table class='table'>
 									<tr>
-									<td><strong>S.No</strong></td>
 									<td><strong>Sender</strong></td>
 									<td><strong>Receiver</strong></td>
 									<td><strong>Amount</strong></td>
 									</tr>";
 									while($row = $result->fetch_assoc()) {
 									echo"<tr>
-									<td>". $row["sno"]." </td> 
 									<td>" . $row["sender"]. "</td>
 									<td> ". $row["reciever"]."</td>
 									<td>" . $row["amount"]. "</td>";

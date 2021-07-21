@@ -62,8 +62,8 @@ if(isset($_POST['submit']))
                           $sender = $sen['name'];
 						  $reciever = $rec['name'];
 						  $sql = "INSERT INTO transaction(sender,reciever,amount) VALUES (' $sender',' $reciever','$bal')";
-                         $query=mysqli_query($conn,$sql);
-                          if ($conn->query($sql) === TRUE) {
+                          $query = mysqli_query($conn,$sql);
+                          if ($query === TRUE) {
                      echo "<script> alert('Transaction Successful');
                                      window.location='transhis.php';
                            </script>";

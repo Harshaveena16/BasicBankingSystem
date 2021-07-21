@@ -90,12 +90,8 @@
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">
-                        <strong>ABOUT US</strong>
-                    </h2>
-                    <hr>
                     <hr class="visible-xs">
-                    <p> One of leading pivate bank for money transfer owned by PVI Pvt.ltd.We offer wide range of financial services.Customer satisfaction is our first priority.</p>
+                    <p align="center"> One of the leading private banks for money transfer owned by PVI Pvt.ltd.We offer wide range of financial services.Customer satisfaction is our first priority.Open an account and keep growing! </p>
 					<hr>
                     <h2 class="intro-text text-center" align="center">
                         <strong>CONTACT US</strong>
@@ -106,21 +102,6 @@
 				</div>
             </div>
         </div>
-
-        <div class="row">
-            <div class="box">
-                <div class="col-lg-12">
-                    <hr>
-                    <h2 class="intro-text text-center">
-                        <strong>CONTACT US</strong>
-                    </h2>
-                    <hr>
-					<h3>300-300-3001</h3>
-                    <p>Have a Nice Day!:)</p>
-                </div>
-            </div>
-        </div>
-
     </div>
     <!-- /.container -->
 
